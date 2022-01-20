@@ -22,7 +22,8 @@ Não envia nada por não fazer nenhum tipo de cadastro, somente retorna o token 
  "<token aqui>"
 ```
 ## Todos
-É necessário enviar o token adquirido no endpoint acima no Authorization
+É necessário enviar o token adquirido no endpoint acima no Authorization o token vai ficar igual ao exemplo abaixo: <br>
+`Bearer <cole o token aqui>`<br>
 - `/todos` - GET - Obtém lista de todos <br>
 **Retorno todos**
 - Em caso de sucesso
